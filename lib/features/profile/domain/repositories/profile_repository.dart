@@ -1,0 +1,7 @@
+import '../entities/profile_entity.dart';
+
+abstract class ProfileRepository {
+  Future<ProfileEntity> getProfile(String uid);
+  Future<void> updateProfile(ProfileEntity profile);
+  Future<String> uploadAvatar(String uid, String filePath);
+}

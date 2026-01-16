@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "834279400786",
+    "firebase_url": "https://my-app-english-c87dd-default-rtdb.firebaseio.com",
+    "project_id": "my-app-english-c87dd",
+    "storage_bucket": "my-app-english-c87dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834279400786:android:285732c8ef83b6abbd868b",
+        "android_client_info": {
+          "package_name": "com.example.bear_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV0VYV96IA0shZpcY8vlX6-WDpaI6Ujpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834279400786:android:653b86d42f6c9d4bbd868b",
+        "android_client_info": {
+          "package_name": "vn.beargo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV0VYV96IA0shZpcY8vlX6-WDpaI6Ujpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
