@@ -8,7 +8,10 @@
 - 🎤 Speaking practice with speech-to-text and AI feedback  
 - 📚 Vocabulary and topic-based learning modules  
 - 🎮 Mini-games to reinforce language skills  
-- 🔥 User progress tracking and streak system  
+- 🔥 User progress tracking and streak system
+- 
+## 🚀 Release Status
+The application has been submitted to Google Play and is currently in the process of public release review.
 
 ## 🛠️ Tech Stack
 - Flutter (Dart)
@@ -23,7 +26,8 @@
 
 ## 🔐 Security
 - Sensitive API keys are stored in environment variables  
-- No API keys or secrets are committed to this repository  
+- No API keys or secrets are committed to this repository
+- 
 
 ## ▶️ Setup (Local)
 ```bash
